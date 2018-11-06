@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Last_Synch_Date__c</fullName>
+    <defaultValue>Now()</defaultValue>
+    <description>Last Synch Date</description>
+    <externalId>false</externalId>
+    <inlineHelpText>LastSynchDate</inlineHelpText>
+    <label>Last Synch Date</label>
+    <required>true</required>
+    <trackHistory>true</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>DateTime</type>
+</CustomField>
